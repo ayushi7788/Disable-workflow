@@ -6,7 +6,7 @@ on:
 
 jobs:
   disable:
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
      - name: Ayushi Tiwari
